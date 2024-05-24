@@ -1,5 +1,3 @@
-let result;
-
-console.log("fs");
-
-consolekds;
+hdkfjnsdk
+dsflknlkjds
+sdlfnsdlkf
