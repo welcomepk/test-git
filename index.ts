@@ -1,5 +1,5 @@
 let result;
 
-console.log("fdf");
+console.log("fs");
 
 consolekds;
